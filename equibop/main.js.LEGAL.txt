@@ -1,10 +1,3 @@
-/**
- * discord-intl
- *
- * @copyright 2024 Discord, Inc.
- * @link https://github.com/discord/discord-intl
- * @license MIT
- */
 /*!
  * crxToZip
  * Copyright (c) 2013 Rob Wu <rob@robwu.nl>
