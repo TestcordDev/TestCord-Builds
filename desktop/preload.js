@@ -1,4 +1,4 @@
-// Vencord 6fc25d66cd2ba72485b36cee2a25b20836034d6a
+// Vencord f5472e8bfe5ec37d205750b9da72989f29173ffb
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
