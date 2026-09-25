@@ -486,7 +486,7 @@
     },
     "nyx": {
       "name": "verticalsync.",
-      "id": "1207087393929171095"
+      "id": "1280505961546649633"
     },
     "nekohaxx": {
       "name": "nekohaxx",
@@ -619,6 +619,10 @@
     "Davri": {
       "name": "Davri",
       "id": "457579346282938368"
+    },
+    "Kaede": {
+      "name": "Kaede",
+      "id": "1492642701320126504"
     }
   },
   "equicord": {
@@ -635,8 +639,8 @@
       "id": "353229259482857475"
     },
     "nyx": {
-      "name": "verticalsync",
-      "id": "1207087393929171095"
+      "name": "verticalsync.",
+      "id": "1280505961546649633"
     },
     "Cortex": {
       "name": "Cortex",
@@ -1365,6 +1369,14 @@
     "penguinwokrs": {
       "name": "penguinwokrs",
       "id": "385266832136863746"
+    },
+    "Kurt": {
+      "name": "Kurt",
+      "id": "112222963276750848"
+    },
+    "heart_menace": {
+      "name": "heart_menace",
+      "id": "281162701303185408"
     }
   }
 }
